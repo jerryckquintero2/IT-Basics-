@@ -1,2 +1,4 @@
 # IT-Basics-
-IT Basic script to Gather Mac OS X Version, LocalAdmin Accounts, Gatekeeper Status, Sophos Antivirus Version, FileVault2 status 
+Hi There,
+
+My name is Jerryck, I'm an IT Professional. 
